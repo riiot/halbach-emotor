@@ -15,12 +15,12 @@
 2. [ ] Revisar la fundamentación técnica y análisis matemático
 3. [ ] Revisar e integrar referencias académicas (libros, artículos acadé,icos, tesis, etc.)
 3. [ ] Generar lista de Materiales y costos
-4. [ ] Generar el plan de ejecusión:
+4. [ ] Generar el plan de ejecución:
   - Tiempo para la impresión
   - Construcción de herramientas auxiliares y material de pruebas
   - Construcción del proyecto
   - Pruebas del proyecto
-5. [ ] Entrega del listado de materiales y plan de ejecusión al Dr. Patricio
+5. [ ] Entrega del listado de materiales y plan de ejecución al Dr. Patricio
 6. [ ] Construcción del proyecto
 7. [ ] Pruebas del proyecto
 8. [ ] Elaboración de reporte final
