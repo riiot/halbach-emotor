@@ -13,7 +13,7 @@
 
 1. [ ] Revisar el desarrollo mostrado en el video.
 2. [ ] Revisar la fundamentación técnica y análisis matemático
-3. [ ] Revisar e integrar referencias académicas (libros, artículos acadé,icos, tesis, etc.)
+3. [ ] Revisar e integrar referencias académicas (libros, artículos académicos, tesis, etc.)
 3. [ ] Generar lista de Materiales y costos
 4. [ ] Generar el plan de ejecución:
   - Tiempo para la impresión
